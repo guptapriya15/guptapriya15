@@ -59,13 +59,6 @@ Full-stack web app with authentication, REST APIs, and database integration.
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guptapriya15&show_icons=true&theme=tokyonight" />
-</p>
-
----
-
 ## 🤝 Connect With Me
 <p>
   <a href="https://linkedin.com/in/priyaguptaa15">LinkedIn</a> •
